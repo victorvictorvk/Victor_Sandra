@@ -12,5 +12,5 @@ public class Nodo {
 		this.enlace = enlace;
 	}
 	
-	//esto lo cambio ahora a las 19:59
+	//pues yo ahora lo cambio a las 20:29
 }
