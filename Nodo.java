@@ -13,4 +13,5 @@ public class Nodo {
 	}
 	
 	//pues yo ahora lo cambio a las 20:29
+	//estos cambios los realizo desde el eclipse, referentes a la practica 4
 }
